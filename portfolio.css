@@ -1,0 +1,123 @@
+.body{
+	background-image: url("/home/aijaj/Desktop/html & css/potfolio/image/wallpaper.jpg");
+}
+.navigation{
+	height: 80px;
+	width: 100%;
+	margin-top: -25px;
+}
+.name{
+	font-size: 50px;
+	font-family:"Times New Roman";
+	color: yellow;
+	font-style: ;
+	margin:auto;
+	text-align: right;
+	margin-right: 150px;
+}
+.ul{
+	list-style-type: none;
+  	overflow: hidden;
+  	background-color: black	;
+  	font-size: 25px;
+}
+li{
+	float:left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+}
+.main_div {
+  background-image: url("stone1.jpg");
+  height: 275px;
+  border-radius: 0px 0px 30px 30px;
+  width: 100%;
+  text-align: center;
+  margin-top: -7px;
+}
+
+img{
+	border-radius: 50%;
+	margin-top: 100px;
+}
+
+.quates{
+	margin-top: 100px;
+	height: 320px;
+	width: 100%;
+}
+.blogs{
+	height: 600px;
+	width: 100%;
+	border-style: solid;
+	color: chocolate;
+	text-align: center;
+}
+.h2{
+	font-size: 30px;
+	text-align: center;
+	padding: 25px;
+	font-family: "	Arial"
+}
+#faa
+	{
+	width:100px;
+	height:100px;
+	font-size: 75px;
+	text-align: center;
+	padding: 10px;
+	}
+
+.sub_div{
+	color: yellow;
+	height: 200px;
+	width: 100%;
+	border-radius: 0px 0px 50px 50px;
+	background-color: lightgray;
+	text-align: center;
+	padding: 10px;
+}
+.pre{
+	font-size: 25px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+.pr{
+	font-size: 18px;
+	color: white;
+}
+.h1{
+	opacity: 0.7;
+	background-color: black;
+	color:yellow;
+}
+.join_data{
+		opacity: 0.7;
+	    background-color:  black;
+	    color: white;
+	    padding: 5px;
+	}
+.join_data a{
+		border: 2px solid black;
+		font-size: 20px;
+		background-color: red;
+		text-decoration: none;
+		color: white;
+	}
+.join_data a:hover{
+		background-color: blue;
+		font-size: 30px;
+		border-radius: 10px;
+	}
+.form{
+	font-size: 22px;
+}
