@@ -2,7 +2,7 @@
 Resume is a resume and CV theme for Bootstrap created by Start Bootstrap.
 This theme features a fixed sidebar with content sections to build a simple, yet elegant resume
 
-## Previwe
+## Preview
 ![portfolio](https://user-images.githubusercontent.com/41102052/62632129-954e4380-b94f-11e9-8013-dfff77464099.gif)
 
 
