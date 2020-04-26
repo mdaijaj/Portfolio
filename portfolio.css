@@ -1,5 +1,5 @@
 .body{
-	background-image: url("/home/aijaj/Desktop/html & css/potfolio/image/wallpaper.jpg");
+	background-image: url("./image/wallpaper.jpg");
 }
 .navigation{
 	height: 80px;
@@ -10,10 +10,10 @@
 	font-size: 50px;
 	font-family:"Times New Roman";
 	color: yellow;
-	font-style: ;
+	font-style: 20px;
 	margin:auto;
 	text-align: right;
-	margin-right: 150px;
+	margin-right: 75px;
 }
 .ul{
 	list-style-type: none;
