@@ -22,5 +22,5 @@ To preview the changes you make to the code, you can open the index.html file in
 In this project There are some content and social media link which you can contact and there is also attach my resume.
 
 ## how to run:-
-run on any browser: `file:///home/aijaj/Desktop/Portfolio/Portfolio/portfolio.html`
+run on any browser: `file:///home/aijaj/Desktop/Portfolio/Portfolio/portfolio.html`<br>
 https://mdaijaj.github.io/Portfolio/
