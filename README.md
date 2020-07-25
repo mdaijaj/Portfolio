@@ -23,4 +23,4 @@ In this project There are some content and social media link which you can conta
 
 ## how to run:-
 run on any browser: `file:///home/aijaj/Desktop/Portfolio/Portfolio/portfolio.html`
-
+https://mdaijaj.github.io/Portfolio/
